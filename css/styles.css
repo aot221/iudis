@@ -42,6 +42,9 @@ footer {
   body {
   background: #eee !important;  
 }
+.padding{
+  padding-top: 70px;
+}
 
 .wrapper {  
   margin-top: 80px;
